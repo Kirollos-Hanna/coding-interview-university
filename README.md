@@ -70,10 +70,10 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)**(DONE)**
 - [About Video Resources](#about-video-resources)**(DONE)**
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
+- [Pick One Language for the Interview](#pick-one-language-for-the-interview)**(DONE)**
 - [Book List](#book-list)
-- [Before you Get Started](#before-you-get-started)
-- [What you Won't See Covered](#what-you-wont-see-covered)
+- [Before you Get Started](#before-you-get-started)**(DONE)**
+- [What you Won't See Covered](#what-you-wont-see-covered)**(DONE)**
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
